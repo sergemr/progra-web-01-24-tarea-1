@@ -1,0 +1,43 @@
+/* General Body Styles */
+body {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  /* Header Styles */
+  h1, h2, h3 {
+    text-align: center;
+    color: #333;
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  /* Paragraph Styles */
+  p {
+    text-align: center;
+    padding: 20px;
+    margin: 20px 0;
+    line-height: 1.6;
+  }
+  
+  /* Link Styles */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  ol li {
+    font-weight: 500;
+  }
+  
+  
