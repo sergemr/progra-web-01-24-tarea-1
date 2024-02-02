@@ -1,0 +1,43 @@
+html, body {
+    font-family: Arial, Helvetica, sans-serif;  
+    background-image: url('https://www.roc21.com/blog/wp-content/uploads/2012/09/fondos-para-pa%CC%81ginas-web-6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.conenido {
+    width: 100%;
+    max-width: 100%;
+}
+
+h2{
+    margin-left: 100px;
+    
+}
+
+h3{
+    margin-left: 50px;
+   
+}
+
+ol{
+    margin-left: 50px;
+   
+}
+
+ p{
+    text-align: left; 
+    text-align: justify;
+    max-width: 600px; 
+    margin-left: 50px;
+    
+} 
+ 
